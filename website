@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link href="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAlZXEAAMCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiIiAAACAAAAAAIAAAIAAiIiAgAAAgAAAAACAAACAiIiIgIAAAIAAAAAAgAAAgIiIgACAAACAAABEQIAAAICIgERAgAAAgAAARECAAACAiIBEQIAAAICIgIiAgAAAgAAAAACAAACIiIiIiIAAAAAAAAAAAD//wAA4AMAAO/7AADuCwAA7/sAAOgLAADv+wAA6DsAAO+LAADoiwAA74sAAOiLAADoiwAA7/sAAOADAAD//wAA" rel="icon" type="image/x-icon" />
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Curriculum Vitae Daniel Pimenta">
+  <meta name="author" content="Daniel Pimenta">
+
+  <title>CV - Daniel Pimenta</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Daniel Pimenta</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt=" ">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experiência</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Educação</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#interests">Interesses</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Daniel
+          <span class="text-primary">Pimenta</span>
+        </h1>
+        <div class="subheading mb-5">Braga, Portugal
+          <a href="mailto:name@email.com">danielpimenta62059@gmail.com</a>
+        </div>
+        <p class="lead mb-5">Engenheiro mecânico, utilizador avançado em softwares CAD/CAM, como CATIA, INVENTOR, SOLIDWORKS, Autocad e com apetência para a programação, capaz de desenvolver aplicações KBE para softwares como CATIA e o Autocad.</p>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/daniel-pimenta/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+         
+          <a href="https://www.dropbox.com/s/hpvlgn6pr3c3eyv/cv.pdf?dl=0">
+            <i class="fab fa-dropbox"></i>
+			<span title="Curriculum Vitae">
+          </a>
+       
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experiência</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Researcher</h3>
+            <div class="subheading mb-3">CCG Centro de Computação Gráfica</div>
+            <p>Membro do projeto de investigação PRODUTECH-SIF: Soluções para indústria de futuro. O projeto consiste em trazer as inovações da nova indústria 4.0 para indústria do corte da pedra.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">maio 2018 - Presente</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Projetista CAD/CAM</h3>
+            <div class="subheading mb-3">Gardengate S.A.</div>
+            <p>Responsável pelos desenhos técnicos para a fábrica e pela criação dos programas para os centros de maquinação.  Membro da equipa de I&D responsável pelo o desenvolvimento de novos produtos.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">junho 2016 - maio 2018</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Projetista CAD</h3>
+            <div class="subheading mb-3">Vale & Quintão</div>
+            <p>Responsável pelo o desenvolvimento de novos produtos. Mais concretamente, tinha como tarefa executar os desenhos técnicos e ajudar durante o processo de orçamentação. Trabalho realizado numa empresa de metalomecânica, sendo o core business o fabrico de ciclones.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">outubro 2014 - outubro 2015</span>
+          </div>
+        </div>
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Educação</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Universidade do Minho</h3>
+            <div class="subheading mb-3">Mestrado Integrado em Engenharia Mecânica</div>
+            <div>Especialização em Tecnologias da Manufatura</div>
+            <p>Média: 14 valores (B) Nota da dissertação: 19 valores,
+			dissertação com o título "Uma abordagem ontológica para troca de informação na manufatura assistida por computador"</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2010 - 2016</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Tecminho</h3>
+            <div class="subheading mb-3">AutoCAD avançado</div>
+            <div></div>
+            <p></p>
+          </div>
+            
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2016</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">BabeliUM</h3>
+            <div class="subheading mb-3">Inglês C1</div>
+            <div></div>
+            <p></p>
+          </div>
+          
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">BabeliUM</h3>
+            <div class="subheading mb-3">Alemão A1</div>
+            <div></div>
+            <p></p>
+          </div>
+  
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2014</span>
+          </div>
+        </div>
+ 
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+        <div class="w-100">
+            <h2 class="mb-5">Skills</h2>
+          
+
+        <div class="subheading mb-3">Softwares / Línguagens de programação</div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            AutoCAD</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Inventor</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            CATIA</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            VisualBasic</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            MATLAB</li>
+        </ul>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+      <div class="w-100">
+        <h2 class="mb-5">Interesses</h2>
+        <p>Ao longo da minha vida fui sempre tendo um especial gosto pela aprendizagem de novos skills, pela historia, filosofia, corrida e engenharia em geral.</p>
+        <p class="mb-0">Os meus tempos livres vão sendo ocupados, com desporto (corrida), leitura e às vezes com a arte do origami. Isto claro até abril, a partir dessa data serão ocupados com Game of Thrones.</p>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+   
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
